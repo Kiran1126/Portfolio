@@ -1046,9 +1046,11 @@ form{
     #align-about a{
         font-size: 15px;
     }
-    #data{
+    #data ul{
         margin-top: 30px;
-        margin-inline: 50px;
+        margin-inline: 10px;
+        display: flex;
+        justify-content: center;
     }
     .dataNumber{
         font-size: 30px;
