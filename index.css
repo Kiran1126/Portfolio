@@ -1001,12 +1001,12 @@ form{
         padding: 10% 2%;
     }
     .shadow{
-        font-size: 60px;
+        font-size: 55px;
         font-weight: 800;
         transform: translateX(0);
     }
     .body-text-shadow{
-        font-size: 25px;
+        font-size: 23px;
         margin-top: 20px;
         transform: translateX(0);
 
@@ -1047,16 +1047,16 @@ form{
         font-size: 15px;
     }
     #data ul{
-        margin-top: 30px;
+        margin-top: 40px;
         margin-inline: 10px;
         display: flex;
         justify-content: center;
     }
     .dataNumber{
-        font-size: 30px;
+        font-size: 27px;
     }
     .dataDomain{
-        font-size: 15px;
+        font-size: 13px;
     }
 
     /* about section */
