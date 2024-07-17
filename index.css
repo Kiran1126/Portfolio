@@ -1109,13 +1109,15 @@ form{
         width: auto;   
     }
     #testimonial .shadow{
-        font-size: 35;
+        font-size: 47px;
     }
     #testimonial .body-text-shadow{
-        font-size: 18;
+        font-size: 21px;
+        margin-top: 15px;
     }
     #testimonial .textShadowBorder{
-        border-bottom: 2px
+        border-bottom: 2px rgb(6, 143, 255) solid;
+        margin-top: 45px;
     }
     .wrapper{
         margin: 50px ;
