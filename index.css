@@ -1108,6 +1108,9 @@ form{
         height: 80vh;
         width: auto;   
     }
+    #testimonial .shadow{
+        font-size: 45;
+    }
     .wrapper{
         margin: 50px ;
         padding: 0px 0px;
