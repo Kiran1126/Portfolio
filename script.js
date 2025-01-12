@@ -21,6 +21,13 @@ function move(){
     });
 }
 
+const showAge = document.getElementById("Age");
+var now = new Date();
+var birth = new Date('2004-04-12');
+var difference = now - birth;
+var age = new Date(difference).getFullYear() - 1970;
+showAge.innerHTML = age;
+
 
 const wrapper = document.querySelector(".wrapper");
 const carousel = document.querySelector(".carousel");
