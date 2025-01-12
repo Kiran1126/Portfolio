@@ -47,9 +47,10 @@ header{
 }
 #my-image{
     border-radius: 100%;
-    height: 25vh;
-    width: 12vw;
+    height: 26vh;
+    width: 14vw;
     border: none;
+    mix-blend-mode: darken;
 }
 #name{
     color: black;
@@ -58,7 +59,7 @@ header{
     font-weight: 500;
     border-bottom: 0.1vw solid black;
     opacity: 0.8;
-    padding: 5% 0;
+    padding: 7% 0;
 }
 nav ul{
     list-style-type: none;
@@ -290,6 +291,7 @@ form{
     padding: 2vw 0vw;
     border-radius: 10px;
     box-shadow: rgba(50,50,93,0.25) 0px 13px 27px -5px, rgba(0,0,0,0.3) 0px 8px 16px -8px;  
+    background: transparent;
 }
 
 /* Code for pop-up animation */
@@ -934,8 +936,8 @@ form{
     } */
     .ResNavLogo{
         float: left;
-        height: 53px;
-        width: 63px;
+        height: 57px;
+        width: 77px;
     }
     section > section { 
         float: none;
